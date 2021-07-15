@@ -5,17 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636ac58b-0b90-4e9d-9901-5df2f6a30e55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/RandomCode/ReturnClassTypeFunc.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/RandomCode/CapitalFirstLetter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/RandomCode/OperatorOverload.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/RandomCode/Ranges.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/FunctionalsKt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/Sandbox.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/Sandbox.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MapsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/MapsKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
@@ -81,10 +82,7 @@
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.s" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Functional.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/RandomCode/Functional.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Maps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/RandomCode/Maps.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SEFtest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/RandomCode/Maps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/RandomCode/Maps.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,23 +131,9 @@
       <recent name="C:\Code\CodeKotlin\Sandbox\src\RandomCode" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.OperatorOverloadKt">
-    <configuration name="FunctionalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionalKt" />
-      <module name="Sandbox.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
-      <module name="Sandbox.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapsKt" />
+  <component name="RunManager" selected="Kotlin.RangesKt (1)">
+    <configuration name="CapitalFirstLetterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomCode.CapitalFirstLetterKt" />
       <module name="Sandbox.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,6 +141,20 @@
     </configuration>
     <configuration name="OperatorOverloadKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RandomCode.OperatorOverloadKt" />
+      <module name="Sandbox.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RangesKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomCode.RangesKt" />
+      <module name="Sandbox.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RangesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RangesKt" />
       <module name="Sandbox.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -171,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RangesKt (1)" />
+        <item itemvalue="Kotlin.RangesKt" />
+        <item itemvalue="Kotlin.CapitalFirstLetterKt" />
         <item itemvalue="Kotlin.OperatorOverloadKt" />
         <item itemvalue="Kotlin.ReturnClassTypeFuncKt" />
-        <item itemvalue="Kotlin.FunctionalKt" />
-        <item itemvalue="Kotlin.MapsKt" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +186,18 @@
       <option name="presentableId" value="Default" />
       <updated>1618526025566</updated>
     </task>
+    <task id="LOCAL-00001" summary="add file">
+      <created>1625189626630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625189626630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file" />
   </component>
 </project>
