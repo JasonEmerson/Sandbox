@@ -1,4 +1,4 @@
-package RandomCode
+package coding.challenges
 
 fun main() {
     println(containsRange(1..10, 3..5))
