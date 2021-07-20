@@ -26,6 +26,6 @@ private fun product(list: List<Int>): Int {
     if (list.size == 1) {
         return list.first()
     }
-
     return list.first() * product(list.drop(1))
 }
+

@@ -1,11 +1,13 @@
 package coding.challenges
 
-//Given positive Int `n` implement a function which returns a list of containing pairs with all combinations of numbers
-//from `0` to `n`.
+
 
 fun main() {
     println(getAllPairs(5))
 }
+
+//Given positive Int `n` implement a function which returns a list of containing pairs with all combinations of numbers
+//from `0` to `n`.
 
 private fun getAllPairs(n: Int): List<Pair<Int, Int>> {
     var pairs = mutableListOf<Pair<Int, Int>>()

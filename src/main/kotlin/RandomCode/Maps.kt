@@ -1,6 +1,11 @@
+package RandomCode
+
 fun main() {
+
+
     val numbers = listOf(7, 4, 8, 4, 3, 22, 18, 11)
 
+    //find primes
     val results = numbers.map { number ->
         (2 until number).map { number % it }
             .none { it == 0 }
@@ -14,8 +19,16 @@ fun main() {
         .map { number -> (1..number).map { number } }
 
 
-    println(results)
+    println(results3)
+    testStringMap()
 }
+
+fun testStringMap() {
+    var str = "Testing!"
+    str.map { println(it) }
+}
+
+
 
 
 
