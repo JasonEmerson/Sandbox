@@ -1,4 +1,4 @@
-package RandomCode
+package random
 
 data class ReturnMe(val string: String)
 

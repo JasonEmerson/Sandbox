@@ -1,10 +1,16 @@
-package RandomCode
+package random
 
 
 fun main() {
-    println(countdown2(10))
+    divideByTwo(100)
 }
 
+fun divideByTwo(num: Int): Int {
+    println("divideByTwo: $num")
+    if (num < 2) num else divideByTwo(num / 2)
+    println("$num goes POP!")
+    return num
+}
 
 fun countdown(n: Int) {
     if(n == 0) {

@@ -1,4 +1,4 @@
-package RandomCode
+package random
 
 fun main() {
     println(testStringFunc("Testing this string!"))
